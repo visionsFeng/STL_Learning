@@ -44,6 +44,7 @@ int main()
   unordered_set_test::unordered_set_test();
   unordered_set_test::unordered_multiset_test();
   string_test::string_test();*/
+  
   vector_test::vector_test();
 
 #if defined(_MSC_VER) && defined(_DEBUG)
